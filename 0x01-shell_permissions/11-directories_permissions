@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 111 . -type d
+chmod -R +x -type d .
